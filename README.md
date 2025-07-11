@@ -32,6 +32,7 @@ Watch the walkthroughs on my YouTube channel:
 | ModernSwitchExample       | [![Watch on YouTube](https://img.shields.io/badge/Watch-ModernSwitch-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID4) |
 | VotingEligibility         | [![Watch on YouTube](https://img.shields.io/badge/Watch-VotingEligibility-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID5) |
 | HelloWorld                | [![Watch on YouTube](https://img.shields.io/badge/Watch-HelloWorld-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID6) |
+| GenerateEvenNumbers       | [![Watch on YouTube](https://img.shields.io/badge/Watch-GenerateEvenNumbers-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID7) |
 
 *Replace YourVideoIDx with actual YouTube video IDs.*
 
@@ -45,6 +46,7 @@ Watch the walkthroughs on my YouTube channel:
 - **ModernSwitchExample.java** — Modern switch expression (Java 14+).
 - **VotingEligibility.java** — Check voting eligibility based on age.
 - **HelloWorld.java** — Basic “Hello Java!” program.
+- **GenerateEvenNumbers.java** — Generates even numbers up to a given limit.
 
 ---
 
