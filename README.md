@@ -1,3 +1,10 @@
+import os
+import openai
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
+# The base README content you want the AI to improve or update
+base_readme = """
 # JavaLab
 
 [![Java](https://img.shields.io/badge/Language-Java-blue?logo=java&style=flat-square)](https://www.java.com/)  
