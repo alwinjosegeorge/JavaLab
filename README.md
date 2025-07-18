@@ -33,6 +33,7 @@ Watch the walkthroughs on YouTube channel:
 | VotingEligibility     | [![Watch on YouTube](https://img.shields.io/badge/Watch-VotingEligibility-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=Ujt1T1AF_OI)            |
 | HelloWorld            | [![Watch on YouTube](https://img.shields.io/badge/Watch-HelloWorld-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=a7QLo0dRz4o)                  |
 | GenerateEvenNumbers   | [![Watch on YouTube](https://img.shields.io/badge/Watch-GenerateEvenNumbers-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=iUIgLSjZ83o)          |
+| NamedBook             | [![Watch on YouTube](https://img.shields.io/badge/Watch-NamedBook-red?logo=youtube&style=flat-square)](https://www.youtube.com/results?search_query=NamedBook+java)     |
 
 ---
 
@@ -45,6 +46,7 @@ Watch the walkthroughs on YouTube channel:
 - **VotingEligibility.java** — Check voting eligibility based on age.
 - **HelloWorld.java** — Basic “Hello Java!” program.
 - **GenerateEvenNumbers.java** — Generates even numbers up to a given limit.
+- **NamedBook.java** — Simple class representing a book with title and author.
 
 ---
 
@@ -58,6 +60,6 @@ Watch the walkthroughs on YouTube channel:
 
 ### Installation
 
-bash
+```bash
 git clone https://github.com/alwinjosegeorge/JavaLab.git
 cd JavaLab
