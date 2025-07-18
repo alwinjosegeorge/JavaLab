@@ -22,7 +22,7 @@ Each example is accompanied by clear code, comments, and sometimes video tutoria
 
 ## 🎥 Video Tutorials
 
-Watch the walkthroughs on my YouTube channel:
+Watch the walkthroughs on YouTube channel:
 
 | Project                   | Video Tutorial Link                                      |
 |---------------------------|---------------------------------------------------------|
