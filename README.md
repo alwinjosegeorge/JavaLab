@@ -6,17 +6,18 @@
 
 ---
 
-## 📚 Overview
+## 🔖 Topics Covered
 
-**JavaLab** is a curated collection of Java programs designed to help beginners and intermediate learners master core programming concepts. The projects cover:
+This repository contains Java programs demonstrating essential programming concepts:
 
-- Control flow statements
-- Conditionals & loops
-- String and numeric operations
-- Modern Java language features (Java 14+)
-- Input and output handling
-
-Each example is accompanied by clear code, comments, and sometimes video tutorials for enhanced learning.
+- **SwitchWithString**: Using switch statements with String values.
+- **PalindromeNumber**: Check if a number is a palindrome.
+- **Ifelseifcondition**: Using if-else if conditional statements.
+- **ModernSwitchExample**: Exploring modern switch expressions introduced in Java 14+.
+- **VotingEligibility**: Simple program to check voting eligibility by age.
+- **HelloWorld**: The classic first program printing “Hello Java!”.
+- **GenerateEvenNumbers**: Generate and print even numbers up to a limit.
+- **NamedBook**: A simple class representing a book with a title and author.
 
 ---
 
@@ -33,31 +34,19 @@ Watch the walkthroughs on YouTube channel:
 | VotingEligibility     | [![Watch on YouTube](https://img.shields.io/badge/Watch-VotingEligibility-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=Ujt1T1AF_OI)            |
 | HelloWorld            | [![Watch on YouTube](https://img.shields.io/badge/Watch-HelloWorld-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=a7QLo0dRz4o)                  |
 | GenerateEvenNumbers   | [![Watch on YouTube](https://img.shields.io/badge/Watch-GenerateEvenNumbers-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=iUIgLSjZ83o)          |
+| NamedBook             | [![Watch on YouTube](https://img.shields.io/badge/Watch-NamedBook-gray?logo=youtube&style=flat-square)](#)         |
 
 ---
 
 ## 📂 Projects Included
 
-- **SwitchWithString.java** — Grade evaluation with switch statement.
-- **PalindromeNumber.java** — Palindrome number checker.
-- **Ifelseifcondition.java** — Grade assignment using if-else if conditions.
-- **ModernSwitchExample.java** — Modern switch expression (Java 14+).
-- **VotingEligibility.java** — Check voting eligibility based on age.
-- **HelloWorld.java** — Basic “Hello Java!” program.
-- **GenerateEvenNumbers.java** — Generates even numbers up to a given limit.
+- **SwitchWithString.java** — Grade evaluation using switch statement with String cases.
+- **PalindromeNumber.java** — Check whether a number is palindrome or not.
+- **Ifelseifcondition.java** — Assign grades using if-else if conditional statements.
+- **ModernSwitchExample.java** — Demonstrates modern switch expressions (Java 14+ feature).
+- **VotingEligibility.java** — Program to verify if a person is eligible to vote based on age.
+- **HelloWorld.java** — Simple program printing “Hello Java!”.
+- **GenerateEvenNumbers.java** — Generates even numbers up to a specified limit.
+- **NamedBook.java** — Simple Java class modeling a book with title and author fields.
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK) 14 or above
-- Git (for cloning)
-- IDE/Text Editor (IntelliJ IDEA, Eclipse, VS Code, etc.)
-
-### Installation
-
-```bash
-git clone https://github.com/alwinjosegeorge/JavaLab.git
-cd JavaLab
