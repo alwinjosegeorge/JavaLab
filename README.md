@@ -24,17 +24,15 @@ Each example is accompanied by clear code, comments, and sometimes video tutoria
 
 Watch the walkthroughs on YouTube channel:
 
-| Project                   | Video Tutorial Link                                      |
-|---------------------------|---------------------------------------------------------|
-| SwitchWithString          | [![Watch on YouTube](https://img.shields.io/badge/Watch-SwitchWithString-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID1) |
-| PalindromeNumber          | [![Watch on YouTube](https://img.shields.io/badge/Watch-PalindromeNumber-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID2) |
-| Ifelseifcondition         | [![Watch on YouTube](https://img.shields.io/badge/Watch-IfElseCondition-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID3) |
-| ModernSwitchExample       | [![Watch on YouTube](https://img.shields.io/badge/Watch-ModernSwitch-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID4) |
-| VotingEligibility         | [![Watch on YouTube](https://img.shields.io/badge/Watch-VotingEligibility-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID5) |
-| HelloWorld                | [![Watch on YouTube](https://img.shields.io/badge/Watch-HelloWorld-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID6) |
-| GenerateEvenNumbers       | [![Watch on YouTube](https://img.shields.io/badge/Watch-GenerateEvenNumbers-red?logo=youtube&style=flat-square)](https://youtu.be/YourVideoID7) |
-
-*Replace YourVideoIDx with actual YouTube video IDs.*
+| Project               | Video Tutorial Link                                                                                              |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------|
+| SwitchWithString      | [![Watch on YouTube](https://img.shields.io/badge/Watch-SwitchWithString-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=NXzrL-Cgv4A)          |
+| PalindromeNumber      | [![Watch on YouTube](https://img.shields.io/badge/Watch-PalindromeNumber-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=3qSru-sOC7g)            |
+| Ifelseifcondition     | [![Watch on YouTube](https://img.shields.io/badge/Watch-IfElseCondition-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=C0YRYVn_BeI)              |
+| ModernSwitchExample   | [![Watch on YouTube](https://img.shields.io/badge/Watch-ModernSwitch-red?logo=youtube&style=flat-square)](https://www.youtube.com/results?search_query=modern+switch+case+java) |
+| VotingEligibility     | [![Watch on YouTube](https://img.shields.io/badge/Watch-VotingEligibility-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=Ujt1T1AF_OI)            |
+| HelloWorld            | [![Watch on YouTube](https://img.shields.io/badge/Watch-HelloWorld-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=a7QLo0dRz4o)                  |
+| GenerateEvenNumbers   | [![Watch on YouTube](https://img.shields.io/badge/Watch-GenerateEvenNumbers-red?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=iUIgLSjZ83o)          |
 
 ---
 
