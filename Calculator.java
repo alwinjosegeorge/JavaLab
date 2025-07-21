@@ -1,3 +1,10 @@
+/**★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+ ★ Filename    : Calculator.java
+ ★ Author      : Alwin Jose George
+ ★ Date        : 2025-07-21
+ ★ Description : A Java program demonstrating method overloading with addition
+ ★               of integers and doubles.
+ ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★**/
 
 class Calc{
 	public void add (int a ,int b ) {
