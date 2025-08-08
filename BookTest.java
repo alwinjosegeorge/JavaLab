@@ -1,8 +1,8 @@
-class Booka{
+class Book{
 	String title;
 	String author;
 	double price;
-	public Booka(String title,String author,double price){
+	public Book(String title,String author,double price){
 		this.title = title;
 		this.author = author;
 		this.price = price;
@@ -13,7 +13,7 @@ class Booka{
 		System.out.println("Price: " + price);
 	}
 }
-class EBook extends Booka{
+class EBook extends Book{
 	double filesizeMB;
 	EBook(String title,String author,double price,double filesizeMB){
 		super(title,author,price);
@@ -24,7 +24,7 @@ class EBook extends Booka{
 		System.out.println("File Size: " + filesizeMB);
 	}
 }
-class PrintedBook extends Booka{
+class PrintedBook extends Book{
 	int numberofPages;
 	PrintedBook(String title,String author,double price,int numberofPages){
 		super(title,author,price);
@@ -43,4 +43,5 @@ public class BookTest {
 		PrintedBook print = new PrintedBook("Avatar","James Camroen",400,530);
 		print.displayDetails();
 	}
+
 }
